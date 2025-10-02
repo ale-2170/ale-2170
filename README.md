@@ -1,25 +1,29 @@
-<h1 align="center">Hi 👋, I'm Alejandro Martinez</h1>
-<h3 align="center">Student at ITSC 🌟</h3>
+<h1 align="center">Hola 👋, soy Alejandro Martinez</h1>
+<h3 align="center">Desarrollador de Software | Estudiante de término en el Instituto Superior Comunitario San Luis (ITSC) 🌟</h3>
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> 
-  <img src="https://komarev.com/ghpvc/?username=ale-2170&label=Profile%20views&color=0e75b6&style=flat" alt="ale-2170" /> 
+<p align="right"> <h3>Visitas al perfil :-</h3> 
+  <img src="https://komarev.com/ghpvc/?username=ale-2170&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="ale-2170" /> 
 </p>
 
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="ale-2170" /></p>
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 Actualmente estoy aprendiendo **Desarrollo Web y otros lenguajes de programación**  
 
-- 📫 How to reach me **alejamh2909@gmail.com**
+- 🎓 Soy estudiante de término en el **Instituto Tecnológico Superior Comunitario San Luis (ITSC)**  
 
-- ⚡ Fun fact :- I enjoy learning new technologies and exploring software development 🚀
+- 👨‍💻 Mi objetivo es **aportar y aprender en una empresa**, destacándome como profesional y adquiriendo nuevas especialidades en el mundo del desarrollo de software.  
+
+- 📫 Cómo contactarme: **alejamh2909@gmail.com**
+
+- ⚡ Dato curioso: Me apasiona **aprender nuevas tecnologías y explorar soluciones innovadoras** 🚀  
 
 <br>
 
-<h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
+<h3 align="left">Conéctate conmigo: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>
 <p align="left">
   <a href="https://github.com/ale-2170" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ale-2170" height="30" width="40" />
@@ -28,7 +32,7 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -44,9 +48,8 @@
   </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-    <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-</a>
-
   </a> 
+  <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
 </p>
