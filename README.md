@@ -27,6 +27,8 @@
 <p align="left">
   <a href="https://github.com/ale-2170" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ale-2170" height="30" width="40" />
+     <a href="https://www.linkedin.com/in/tuusuario/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
 </p>
 
