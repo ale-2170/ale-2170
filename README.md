@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Alejandro Martinez</h1>
-<h3 align="center">Desarrollador de Software | Estudiante de término en el Instituto Superior Comunitario San Luis (ITSC) 🌟</h3>
+<h3 align="center">Desarrollador de Software | Estudiante de término del (ITSC) 🌟</h3>
 
 <br>
 
@@ -13,13 +13,13 @@
 
 - 🌱 Actualmente estoy aprendiendo **Desarrollo Web y otros lenguajes de programación**  
 
-- 🎓 Soy estudiante de término en el **Instituto Tecnológico Superior Comunitario San Luis (ITSC)**  
+- 🎓 tengo proyectos en mi perfil puedes verlos !**  
 
 - 👨‍💻 Mi objetivo es **aportar y aprender en una empresa**, destacándome como profesional y adquiriendo nuevas especialidades en el mundo del desarrollo de software.  
 
 - 📫 Cómo contactarme: **alejamh2909@gmail.com**
 
-- ⚡ Dato curioso: Me apasiona **aprender nuevas tecnologías y explorar soluciones innovadoras** 🚀  
+- ⚡ Dato curioso: Me gusta **aprender nuevas tecnologías y explorar soluciones innovadoras** 🚀  
 
 <br>
 
